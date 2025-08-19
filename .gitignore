@@ -1,0 +1,27 @@
+# environment variables (secrets)
+.env
+.env.*
+*.env
+
+# common secret formats
+*.key
+*.pem
+*.secrets.json
+config.yaml
+config.json
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+capital/
+.ipynb_checkpoints/
+
+# os/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+

@@ -1,0 +1,11 @@
+langchain
+langchain-community
+openai
+boto3
+pypdf
+pdfminer.six 
+python-dotenv
+tiktoken 
+faiss-cpu
+yfinance
+streamlit
