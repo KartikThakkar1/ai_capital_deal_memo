@@ -41,7 +41,7 @@ By building this system, the project highlights a practical and impactful use ca
 - Language Model: OpenAI GPT  (3.5-turbo)
 - Framework: [LangChain](https://www.langchain.com/)  
 - Cloud Storage: AWS S3  
-- Vector Database: FAISS / ChromaDB  
+- Vector Database: FAISS (Feel free to use ChromaDB is you prefer that)
 - UI: Streamlit  
 - Environment: Python 3.10+  
 
